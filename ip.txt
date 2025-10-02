@@ -1,8 +1,8 @@
 digitalplat.org#ORG域名提供商
 nat.freecloud.ltd#Natfreecloud
 ip.sb#IP.SB
-savanna.ns.cloudflare.com
-dana.ns.cloudflare.com
+savanna.ns.cloudflare.com#savanna
+dana.ns.cloudflare.com#dana
 dynadot.com:2053#域名注册商域名(美国)
 fbi.gov:2053#美国FBI域名
 shopify.com:2053#SHOPIFY.COM域名(美国)
